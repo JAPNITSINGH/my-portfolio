@@ -1,13 +1,13 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="intro">
+    <h2 v-html="msg"></h2>
     
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'ShortIntro',
   props: {
     msg: String
   }
@@ -17,7 +17,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
-  margin: 40px 0 0;
+  margin: 2rem 0 0;
 }
 h1 {
   margin: 0px 0 0;
@@ -28,7 +28,7 @@ ul {
 }
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 0.5rem;
 }
 a {
   color: #42b983;

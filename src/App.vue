@@ -1,9 +1,9 @@
 <template>
   <NavBar></NavBar>
   <img alt="My logo" src="./assets/logo-3.png" style="margin: 40px;">
-  <ShortIntro msg='Hey, I am <span style="color: #41b883;">Japnit Singh Ahluwalia</span>. Here, you can check out what I have been working on.'/>
-  <ShortIntro msg="I try my best to create things with ❤️"/>
-  <PersonalSummary id="about" msg='Software Engineer with 4+ years of experience, specializing in 
+  <ShortIntro data-aos="slide-up" msg='Hey, I am <span style="color: #41b883;">Japnit Singh Ahluwalia</span>. Here, you can check out what I have been working on.'/>
+  <ShortIntro data-aos="slide-up" msg="I try my best to create things with ❤️"/>
+  <PersonalSummary data-aos="slide-up" id="about" msg='Software Engineer with 4+ years of experience, specializing in 
   <span style="color: #41b883;">backend development, cloud computing, DevOps etc</span>. 
   Recently completed a <span style="color: #41b883;">Master’s in Computer Science</span> 
   to deepen my technical expertise. I enjoy building 
@@ -15,10 +15,10 @@
   to optimize performance and reliability. I’m passionate about clean code, automation, and 
   continuous improvement. I thrive in fast-paced settings where I can contribute to impactful, 
   <span style="color: #41b883;">mission-driven products</span>.'></PersonalSummary>
-  <SkillSet id="skills"></SkillSet>
-  <ProfessionalExperience id="experience"></ProfessionalExperience>
-  <MyProjects id="projects"></MyProjects>
-  <ContactMe id="contact"></ContactMe>
+  <SkillSet data-aos="slide-up" id="skills"></SkillSet>
+  <ProfessionalExperience data-aos="slide-up" id="experience"></ProfessionalExperience>
+  <MyProjects data-aos="slide-up" id="projects"></MyProjects>
+  <ContactMe data-aos="slide-up" id="contact"></ContactMe>
 </template>
 
 <script>

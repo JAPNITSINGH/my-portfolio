@@ -45,51 +45,51 @@
             {
                 language: 'Java',
                 projects: [
+                    { name: 'Employee management(CLI)', url: 'https://github.com/JAPNITSINGH/SpringAssignment' },
+                    { name: 'Employee management(MVN)', url: 'https://github.com/JAPNITSINGH/MavenAssgnment' },
+                    { name: 'Real-time Steaming pipeline', url: 'https://github.com/JAPNITSINGH/kafka_Second' },
+                    { name: 'Academics management system(Hibernate)', url: 'https://github.com/JAPNITSINGH/MavenAssgnment' },
+                    { name: 'Online Store Inventory management (SOAP)', url: 'https://github.com/JAPNITSINGH/SOAP_TEST' },
+                    { name: 'Servelets', url: 'https://github.com/JAPNITSINGH/SpringSession' },
+                    { name: 'Resturent Service APIs(REST)', url: 'https://github.com/JAPNITSINGH/REST' },
+                    { name: 'Sleeping barber', url: 'https://github.com/JAPNITSINGH/Sleeping_Barber_Problem'},
+                    { name: 'Serialization', url: 'https://github.com/JAPNITSINGH/Java_XMLParser_Serialization'},
+                    { name: 'Messaging App CLI', url: 'https://github.com/JAPNITSINGH/JavaChatApp' },
                     { name: 'PROFESSIONAL EXPERIENCE: Kiuwan', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'PROFESSIONAL EXPERIENCE: Froala-Editor', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'PROFESSIONAL EXPERIENCE: XRAY-Enterprise', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'PROFESSIONAL EXPERIENCE: Aqua Data Studio', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
-                    { name: 'Messaging App CLI', url: 'https://github.com/JAPNITSINGH/JavaChatApp' },
-                    { name: 'Employee management(CLI)', url: 'https://github.com/JAPNITSINGH/SpringAssignment' },
-                    { name: 'Servelets', url: 'https://github.com/JAPNITSINGH/SpringSession' },
-                    { name: 'Employee management(MVN)', url: 'https://github.com/JAPNITSINGH/MavenAssgnment' },
-                    { name: 'Academics management system(Hibernate)', url: 'https://github.com/JAPNITSINGH/MavenAssgnment' },
-                    { name: 'Online Store Inventory management (SOAP)', url: 'https://github.com/JAPNITSINGH/SOAP_TEST' },
-                    { name: 'Real-time Steaming pipeline', url: 'https://github.com/JAPNITSINGH/kafka_Second' },
-                    { name: 'Resturent Service APIs(REST)', url: 'https://github.com/JAPNITSINGH/REST' },
-                    { name: 'Sleeping barber', url: 'https://github.com/JAPNITSINGH/Sleeping_Barber_Problem'},
-                    { name: 'Serialization', url: 'https://github.com/JAPNITSINGH/Java_XMLParser_Serialization'},
                     
                 ]
             },
             {
                 language: 'TypeScript',
                 projects: [
-                    { name: 'PROFESSIONAL EXPERIENCE: Fly4Credit', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
-                    { name: 'PROFESSIONAL EXPERIENCE: Froala-Editor', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'Microsoft\'s Angular CLI', url: 'https://github.com/angular/angular-cli/pull/28100' },
                     { name: 'InfraCost', url: 'https://github.com/infracost/vscode-infracost/pull/220' },
                     { name: 'Employee Management System', url: 'https://github.com/JAPNITSINGH/AngularSpring' },
                     { name: 'Custom List(UI)', url: 'https://github.com/JAPNITSINGH/Angualr' },
                     { name: 'Custom app-bar(UI)', url: 'https://github.com/JAPNITSINGH/React' },
                     { name: 'Custom app-bar(UI)', url: 'https://github.com/JAPNITSINGH/React' },
+                    { name: 'PROFESSIONAL EXPERIENCE: Fly4Credit', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
+                    { name: 'PROFESSIONAL EXPERIENCE: Froala-Editor', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' }
                 ]
             },
             {
                 language: 'C++',
                 projects: [
+                    { name: 'Parallel CVP', url: 'https://github.com/JAPNITSINGH/Parallell-CVP' },
                     { name: 'PROFESSIONAL EXPERIENCE: LANSA IDE', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'PROFESSIONAL EXPERIENCE: DBPowerStudio', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'PROFESSIONAL EXPERIENCE: WhereScape-RED', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
-                    { name: 'Parallel CVP', url: 'https://github.com/JAPNITSINGH/Parallell-CVP' },
 
                 ]
             },
             {
                 language: 'JavaScript',
                 projects: [
-                    { name: 'PROFESSIONAL EXPERIENCE: XRAY-Enterprise', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
                     { name: 'News App', url: 'https://github.com/JAPNITSINGH/ReactNative' },
+                    { name: 'PROFESSIONAL EXPERIENCE: XRAY-Enterprise', url: 'https://www.linkedin.com/in/japnit-singh-ahluwalia/' },
 
                 ]
             },

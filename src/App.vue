@@ -1,24 +1,31 @@
 <template>
   <NavBar></NavBar>
   <img alt="My logo" src="./assets/logo-3.png" style="margin: 40px;">
-  <ShortIntro data-aos="slide-up" msg='Hey, I am <span style="color: #41b883;">Japnit Singh Ahluwalia</span>. Here, you can check out what I have been working on.'/>
-  <ShortIntro data-aos="slide-up" msg="I try my best to create things with ❤️"/>
-  <PersonalSummary data-aos="slide-up" id="about" msg='Software Engineer with 4+ years of experience, specializing in 
-  <span style="color: #41b883;">backend development, cloud computing, DevOps etc</span>. 
-  Recently completed a <span style="color: #41b883;">Master’s in Computer Science</span> 
-  to deepen my technical expertise. I enjoy building 
-  <span style="color: #41b883;">scalable systems</span> that solve real-world problems in 
-  <span style="color: #41b883;">collaborative environments</span>. My experience includes 
-  leading cross-functional teams, designing complex systems, and deploying 
-  <span style="color: #41b883;">cloud-native solutions on AWS</span>. I’ve worked 
-  extensively with <span style="color: #41b883;">Java, Spring Boot, and CI/CD tools </span>
-  to optimize performance and reliability. I’m passionate about clean code, automation, and 
-  continuous improvement. I thrive in fast-paced settings where I can contribute to impactful, 
-  <span style="color: #41b883;">mission-driven products</span>.'></PersonalSummary>
-  <SkillSet data-aos="slide-up" id="skills"></SkillSet>
-  <ProfessionalExperience data-aos="slide-up" id="experience"></ProfessionalExperience>
-  <MyProjects data-aos="slide-up" id="projects"></MyProjects>
-  <ContactMe data-aos="slide-up" id="contact"></ContactMe>
+  <ShortIntro data-aos="slide-right" msg='Hey, I am <span style="color: #41b883;">Japnit Singh Ahluwalia</span>. Here, you can check out what I have been working on.'/>
+  <ShortIntro data-aos="slide-left" msg="I try my best to create things with ❤️"/>
+  <PersonalSummary data-aos="slide-right" id="about" msg='I am a <span style="color: #41b883;">Software Engineer</span> 
+    with over <span style="color: #41b883;">4 years of experience</span>, primarily focused on 
+    <span style="color: #41b883;">backend development</span>, <span style="color: #41b883;">cloud computing</span>, 
+    and <span style="color: #41b883;">DevOps</span>. I recently completed a 
+    <span style="color: #41b883;">Master’s in Computer Science</span> to further strengthen my 
+    <span style="color: #41b883;">technical foundation</span>. I enjoy building <span style="color: #41b883;">scalable</span>, 
+    <span style="color: #41b883;">reliable systems</span> 
+    that address <span style="color: #41b883;">real-world challenges</span>, and I thrive in 
+    <span style="color: #41b883;">collaborative</span>, <span style="color: #41b883;">fast-paced environments</span>.
+    Throughout my career, I have led <span style="color: #41b883;">cross-functional teams</span>, 
+    designed and implemented <span style="color: #41b883;">complex architectures</span>, 
+    and deployed <span style="color: #41b883;">cloud-native solutions</span> on 
+    <span style="color: #41b883;">AWS</span>. My core expertise includes 
+    <span style="color: #41b883;">Java</span>, <span style="color: #41b883;">Spring Boot</span>, 
+    and <span style="color: #41b883;">CI/CD pipelines</span>, with a strong emphasis on 
+    <span style="color: #41b883;">automation</span>, <span style="color: #41b883;">clean code</span>, 
+    and <span style="color: #41b883;">continuous improvement</span>. I am passionate about delivering 
+    <span style="color: #41b883;">high-quality software</span> and contributing to products that make a 
+    <span style="color: #41b883;">meaningful impact</span>.'></PersonalSummary>
+  <SkillSet data-aos="slide-left" id="skills"></SkillSet>
+  <ProfessionalExperience data-aos="slide-right" id="experience"></ProfessionalExperience>
+  <MyProjects data-aos="slide-right" id="projects"></MyProjects>
+  <ContactMe data-aos="slide-left" id="contact"></ContactMe>
 </template>
 
 <script>

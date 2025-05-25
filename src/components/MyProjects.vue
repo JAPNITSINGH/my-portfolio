@@ -45,6 +45,7 @@
             {
                 language: 'Java',
                 projects: [
+                    { name: 'Flutter-IntelliJ Plugin', url: 'https://github.com/flutter/flutter-intellij/pull/8220'},
                     { name: 'Employee management(CLI)', url: 'https://github.com/JAPNITSINGH/SpringAssignment' },
                     { name: 'Employee management(MVN)', url: 'https://github.com/JAPNITSINGH/MavenAssgnment' },
                     { name: 'Real-time Steaming pipeline', url: 'https://github.com/JAPNITSINGH/kafka_Second' },

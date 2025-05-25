@@ -52,6 +52,10 @@ export default {
         margin-bottom: 1rem;
         text-align: left;
     }
+     h2 {
+        margin-bottom: 1rem;
+        text-align: left;
+    }
     ul {
         list-style: none;
         padding: 0;

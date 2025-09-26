@@ -95,6 +95,58 @@
                 <img src="@/assets/Vue.js.png" alt="Java.js" class="skill-icon" />
                 <p class="skill-name">Vue.js</p>
             </div>
+            <div class="skill-item">
+                <img src="@/assets/Kotlin.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Kotlin</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Node.js.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Node.js</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/AWS.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">AWS</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Docker.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Docker</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Terraform.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Terraform</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Mongodb.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">MongoDB</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Cassandra.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Cassandra</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/BitBucket.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">BitBucket</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Postman.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Postman</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Swagger.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Swagger</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Jenkins.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Jenkins</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/GitLab.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">GitLab</p>
+            </div>
+            <div class="skill-item">
+                <img src="@/assets/Bamboo.png" alt="Java.js" class="skill-icon" />
+                <p class="skill-name">Bamboo</p>
+            </div>
         </div>
     </section>
 </template>

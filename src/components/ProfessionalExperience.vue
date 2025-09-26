@@ -29,6 +29,16 @@ export default {
         return {
                 jobs: [
                     {
+                        title: "Software Developer",
+                        company: "NovaHire Tech",
+                        dates: "April 2025 – Present · 5 mos",
+                        icon: require('@/assets/NovaHire.png'),
+                        description: "Focused on enhancing developer productivity and system reliability by resolving \
+                        critical defects, automating regression testing, and optimizing CI/CD workflows. I also implemented \
+                        Infrastructure as Code with Terraform and deployed containerized microservices with Docker, which \
+                        improved scalability, reduced manual errors, and streamlined cloud resource management"
+                    },
+                    {
                         title: "Master's Student",
                         company: "UNIVERSITY OF ROCHESTER",
                         dates: "Aug 2023 – Dec 2024 · 1 yr 5 mos",
@@ -60,9 +70,10 @@ export default {
                         company: "ACCOLITE",
                         dates: "Jan 2020 – Aug 2020 · 8 mos",
                         icon: require('@/assets/accolite.png'),
-                        description: "Developed routing and debugging features in IDEs, resolved critical application issues, \
-                        and contributed to cost estimation tools using modern stacks like TypeScript and AWS. Helped boost product \
-                        performance and usability during early career stages."
+                        description: "I developed a Router class in LansaIDE using C/C++, enabling more efficient routing \
+                        for RDMLX-based web applications. I also resolved critical issues in an online text editor by \
+                        addressing SQL server compatibility and Angular framework build challenges, improving overall \
+                        functionality and stability."
                     },
                     {
                         title: "Intern",

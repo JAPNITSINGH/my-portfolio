@@ -9,8 +9,13 @@
                 </a>
             </li>
             <li>
+                <a href="mailto:japnitsinghahluwalia@gmail.com">
+                Email: japnitsinghahluwalia@gmail.com
+                </a>
+            </li>
+            <li>
                 <a href="mailto:truejswalia@gmail.com">
-                Email: truejswalia@gmail.com
+                Alternate Email: truejswalia@gmail.com
                 </a>
             </li>
             <li>
